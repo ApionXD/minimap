@@ -81,6 +81,7 @@ const { html, render } = mlp_uhtml;
   addRPlaceTemplate("duke", { bot: true, mask: true });
   addRPlaceTemplate("slu", { bot: true, mask: true });
   addRPlaceTemplate("sdsu", { bot: true, mask: true });
+  addRPlaceTemplate("clemson", { bot: true, mask: true });
   let rPlaceTemplateName;
   let rPlaceTemplate;
   let rPlaceMask = undefined;
